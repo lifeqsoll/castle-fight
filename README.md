@@ -1,5 +1,6 @@
 # Castle Fight
 
+https://drive.google.com/file/d/18hmgEMiURwSzuAACiWicDCAlV4-4hZEI/view?usp=drivesdk
 Учебный проект: одна линия, покупка зданий, автобой юнитов, 6 фракций.
 
 ## Установка (Arch / любой Linux)
