@@ -1,0 +1,7 @@
+Шрифты в этой папке распространяются по SIL Open Font License 1.1
+(https://openfontlicense.org), их можно свободно использовать и встраивать в игры.
+
+- PT Sans (Regular, Bold) — ParaType, https://fonts.google.com/specimen/PT+Sans
+- Philosopher (Bold) — Jovanny Lemonad, https://fonts.google.com/specimen/Philosopher
+- Press Start 2P — CodeMan38, https://fonts.google.com/specimen/Press+Start+2P
+- Podkova (ExtraBold, SemiBold, Medium — статичные срезы вариативного шрифта) — Cyreal, https://fonts.google.com/specimen/Podkova
